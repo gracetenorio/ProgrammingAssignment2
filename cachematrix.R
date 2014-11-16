@@ -1,5 +1,5 @@
 ## The following functions cache the inverse of a matrix.   
-## Input assumption:  matrix supplied to this function is always invertible. 
+## Input assumption:  matrices supplied to these functions are invertible. 
 
 
 
